@@ -9,3 +9,11 @@ name = "Cayden Johnson"
 age = 16
 
 print("my name is ",name,"it is the year", Year,"and I am", age , "old")
+
+Print("")
+
+year = input("What year is it:")
+name = input ("What is your name? ")
+Age = input (" How old are you? ")
+
+print("\nWelcome", name," I see you are", age," years old in the year of ", year +".")
