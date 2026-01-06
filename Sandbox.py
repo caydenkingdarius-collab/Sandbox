@@ -1,5 +1,11 @@
 #Programmer: Cayden Johnson
-#progra: Sandbox
-#Date 12/18/2025
+#progra: Sandbox - varables
+#Date 1/6/2026
 
-print("This is my amazing sand box for me to play and lern and make mistakes and learn some more")
+print("Lets make some varables")
+
+Year = 2026
+name = "Cayden Johnson"
+age = 16
+
+print("my name is ",name,"it is the year", Year,"and I am", age , "old")
